@@ -5,22 +5,15 @@ One of the primary benefits of Azure as a cloud platform is its ability to enabl
 Download the [PowerPoint](https://github.com/GSIAzureCOE/Hybrid/blob/master/Architecting%20Hybrid%20Solutions.pptx?raw=1).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
-Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-hybrid-solutions/todo.mp4).
-
 ## Demos
 1. Demo 1
-[[source code](https://github.com/GSIAzureCOE/Hybrid/blob/master/todo)]
-[[demo script](https://github.com/GSIAzureCOE/Hybrid/blob/master/todo.docx)]
-[[video](https://gsiazurecoecontent.blob.core.windows.net/architecting-hybrid-solutions/todo.mp4)]
+[[source code](#TODO)]
+[[demo script](#TODO)]
+[[video](#TODO)]
 
 ## Session objectives
 * Discuss key hybrid scenarios
-* Disaster Recovery & Backup
-* Hot/Cold storage management
-* Applications across on-prem and cloud
-* Discuss on-prem to Azure integration o Network Connectivity (VPN/ExpressRoute) 
-* Connecting Services (Service Bus Relay, BizTalk Services, API Management) 
-* Running applications in the Cloud (RemoteApp, AD on-prem+cloud)
+* Discuss on-prem to Azure integration & Network Connectivity (VPN/ExpressRoute) 
 * Discuss DR & Backup capabilities (ASR, Azure Backup)
 * Architecting for Disaster Recovery with SQL Server Always On (with DR, as currently in SAP demo)
 
@@ -28,7 +21,9 @@ Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-
 
 
 ## Azure Services Covered
-
+* [[Azure Backup]] (https://azure.microsoft.com/en-us/services/backup/)
+* [[Azure Site Recovery (ASR)]] (https://azure.microsoft.com/en-us/services/site-recovery/)
+* [[StorSimple]] (https://azure.microsoft.com/en-us/documentation/services/storsimple/)
 
 
 ## Code of Conduct
