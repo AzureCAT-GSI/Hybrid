@@ -18,12 +18,14 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 * Architecting for Disaster Recovery with SQL Server Always On (with DR, as currently in SAP demo)
 
 ## Session Prerequisites
-
+* [Designing and Managing Azure Subscriptions](https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions)
+* [Architecting Virtual Machine Solutions on Azure](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions)
+* [Networking](https://github.com/GSIAzureCOE/Networking)
 
 ## Azure Services Covered
-* [[Azure Backup]] (https://azure.microsoft.com/en-us/services/backup/)
-* [[Azure Site Recovery (ASR)]] (https://azure.microsoft.com/en-us/services/site-recovery/)
-* [[StorSimple]] (https://azure.microsoft.com/en-us/documentation/services/storsimple/)
+* [Azure Backup] (https://azure.microsoft.com/en-us/services/backup/)
+* [Azure Site Recovery (ASR)] (https://azure.microsoft.com/en-us/services/site-recovery/)
+* [StorSimple] (https://azure.microsoft.com/en-us/documentation/services/storsimple/)
 
 
 ## Code of Conduct
