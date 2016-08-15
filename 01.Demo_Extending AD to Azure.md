@@ -70,7 +70,7 @@ The next step is to deploy the Replica Domain controller.
 
     -   Verify there is no hard errors. The warnings on the screenshots are acceptable. Click Install. After the promotion, the server will reboot.
 
-<img src="Media/DCPromo.PNG" />  |
+<img src="Media/DcPromo.PNG" />  |
 
 
 Performing the demo
