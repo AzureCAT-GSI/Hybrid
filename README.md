@@ -6,10 +6,11 @@ Download the [PowerPoint](https://github.com/GSIAzureCOE/Hybrid/blob/master/Arch
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-1. Demo 1
-[[source code](#TODO)]
-[[demo script](#TODO)]
-[[video](#TODO)]
+1. * Extending AD to Azure
+[[Demo script & source code](./Demo1-ExtendingADtoAzure/)]
+
+2. * Azure Backup
+[[Demo script & source code](./Demo2-AzureBackup/)]
 
 ## Session objectives
 * Discuss key hybrid scenarios
@@ -23,9 +24,9 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 * [Networking](https://github.com/GSIAzureCOE/Networking)
 
 ## Azure Services Covered
+* [Extending AD to Azure ] (https://azure.microsoft.com/en-us/documentation/articles/guidance-iaas-ra-secure-vnet-ad/)
 * [Azure Backup] (https://azure.microsoft.com/en-us/services/backup/)
 * [Azure Site Recovery (ASR)] (https://azure.microsoft.com/en-us/services/site-recovery/)
-* [StorSimple] (https://azure.microsoft.com/en-us/documentation/services/storsimple/)
 
 
 ## Code of Conduct
