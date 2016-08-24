@@ -6,10 +6,10 @@ Download the [PowerPoint](https://github.com/GSIAzureCOE/Hybrid/blob/master/Arch
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-1. * Extending AD to Azure
+1. Extending AD to Azure
 [[Demo script & source code](./Demo1-ExtendingADtoAzure/)]
 
-2. * Azure Backup
+2. Azure Backup
 [[Demo script & source code](./Demo2-AzureBackup/)]
 
 ## Session objectives
