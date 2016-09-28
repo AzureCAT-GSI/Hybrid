@@ -8,9 +8,13 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 ## Demos
 1. Extending AD to Azure
 [[Demo script & source code](./Demo1-ExtendingADtoAzure/)]
+[[video](http://azurecatgsicontent.blob.core.windows.net/architecting-hybrid-solutions/demo1_ADDS.mp4)]
 
 2. Azure Backup
 [[Demo script & source code](./Demo2-AzureBackup/)]
+[[File and Folder backup video](http://azurecatgsicontent.blob.core.windows.net/architecting-hybrid-solutions/demo2_AzBackup_FilesFolders.mp4)]
+[[Server backup video](http://azurecatgsicontent.blob.core.windows.net/architecting-hybrid-solutions/demo3_AzBackupServer.mp4)]
+[[Virtual Machine backup video](http://azurecatgsicontent.blob.core.windows.net/architecting-hybrid-solutions/demo4_AzBackupVM.mp4)]
 
 ## Session objectives
 * Discuss key hybrid scenarios
