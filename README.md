@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Architecting Hybrid Solutions
 One of the primary benefits of Azure as a cloud platform is its ability to enable hybrid solutions between on-premises and cloud.  We will start with a look at networking requirements for various workloads and will highlight opportunities such identity solutions and SQL Server Availability Groups to provide disaster recovery for specific workloads.  We will then look at Azure Site Recovery and Backup as options for protecting virtual machine solutions.  Finally, we will discuss Remote App and StorSimple as two additional enablers for hybrid solutions.
 
